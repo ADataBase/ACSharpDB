@@ -1,3 +1,9 @@
+## Archive Notice!
+
+ACSharpDB has been succeeded by AVSCSDB(A Very Simple C Sharp DataBase)
+
+<hr>
+
 # ACSharpDB
 
 A NOSQL database that you wanted, embeddable and simple. Not key-pair, more like document based database.
